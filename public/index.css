@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header-data{
+    color:orange;
+    border-bottom: 1px solid red;
+    font-family:Raleway, Comic Sans MS, cursive;
+    font-size: 20px;
+}
+ .card{
+    box-shadow: 8px 8px 6px grey;
+    margin:10px;
+      
+ }
+ body{
+    background-color: black;
+ }
+ .card-body a:hover{
+     background-color:green;
+     border-style: none;
+
+ }
+ 
+ .navbar{
+     background-color: steelblue;
+     bottom:0;
+     height:30px;
+     
+     
+ }
+ 
+ 
+.image1{
+    margin-top: 30px;
+    background-image: url(img/download2.jpg);
+    height:200px;
+    width:300px;
+    margin: 25px;
+    background-size: cover;
+    box-shadow: 10px 10px 8px #888888;
+}
+.image2{
+    margin-top: 30px;
+    background-image: url(img/download1.jpg);
+    height:200px;
+    width:300px;
+    margin: 25px;
+    background-size: cover;
+    box-shadow: 10px 10px 8px #888888;
+}
+.image3{
+    margin-top: 30px;
+    background-image: url(img/download3.jpg);
+    height:200px;
+    width:300px;
+    margin: 25px;
+    background-size: cover;
+    box-shadow: 10px 10px 8px #888888;
+}
+ 
+
+ 
+ 
+
+ 
